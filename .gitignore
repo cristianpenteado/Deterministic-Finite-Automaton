@@ -1,0 +1,10 @@
+#Ignore folder named '/test'
+/test
+#Ignore folder named 'nbproject'
+/nbproject
+#Ignore file named 'manifest.mf'
+manifest.mf
+
+
+
+/build/
