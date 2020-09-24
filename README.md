@@ -1,7 +1,5 @@
 # Autômato Finito Determinístico
 
-### Autores: Cristian Penteado & **[Douglas Scaini](https://github.com/douglasscaini)**
-
 ### Objetivo
 
 Simular um mini e-commerce. Onde, recebida uma devida entrada, transita pelos possíveis estados estipulados.
@@ -19,15 +17,15 @@ Simular um mini e-commerce. Onde, recebida uma devida entrada, transita pelos po
 
 ### Diagrama de Estados
 
-![diagrama de estados](http://ap.imagensbrasil.org/images/2019/03/18/diagrama70d924e48ccb9f36.png)
+![diagrama de estados](./assets/diagrama_de_estados.png)
 
 ### Representação Formal do Diagrama de Estados 
 
-![Diagrama de estados formal](http://ap.imagensbrasil.org/images/2019/03/26/Sem-titulo.png)
+![Diagrama de estados formal](./assets/diagrama_de_estados_formal.png)
 
 ### Função programa como tabela (Q, ∑, δ, q0, F)
 
-![tabela](http://ap.imagensbrasil.org/images/2019/03/18/diagrama60bb2f933053315c.png)
+![tabela](./assets/função_tabela.png)
 
 ### Função programa (δc =  Q X ∑ → Q)
 
@@ -39,6 +37,11 @@ Simular um mini e-commerce. Onde, recebida uma devida entrada, transita pelos po
 6. **δc(q2, 0) = q0**
 7. **δc(q3, 1) = q3**
 8. **δc(q3, 0) = q3**
+
+## Contribuidores
+
+<a href="https://github.com/douglasscaini" ><img width="50" style="border-radius:2em" src="https://avatars0.githubusercontent.com/u/41807133?v=4" alt="douglasscaini"></a>
+
 
 ### Referências Utilizadas
 
